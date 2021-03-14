@@ -67,7 +67,6 @@ td {
 	padding-left: 10px;
 	padding-top: 7px;
 	padding-bottom: 7px;
-	font-size: 13.5px;
 }
 
 table {
@@ -77,6 +76,6 @@ table {
 }
 
 u {
-	font-size: 30px;
+	/* font-size: 30px; */
 	text-decoration: none;
 }
